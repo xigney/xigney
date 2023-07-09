@@ -1,11 +1,6 @@
 # Merhabalar 👋, benim adım xigney  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Biraz detaylara inelim...
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class Öğrenci:
 
     def __init__(self):
