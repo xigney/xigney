@@ -13,7 +13,7 @@ class Öğrenci:
         self.konusulabilecegini_iddia_ettigi_diller = ["en_US", "tr_TR"]
 
     def aaa_ama_cok_ayip_gel_halana_bir_hos_geldi_de(self):
-        print(Hayır, demeyeceğim ya!!!")
+        print("Hayır, demeyeceğim ya!!!")
 
 
 me = Öğrenci()
