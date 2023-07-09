@@ -64,7 +64,7 @@ me.aaa_ama_cok_ayip_gel_halana_bir_hos_geldi_de()
 <br/>  
 
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Eğer bana ulaşmak isterse, aşağıda bazı linkler mevcut!</b> :)
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Eğer bana ulaşmak istersen, aşağıda bazı linkler mevcut!</b> :)
 
 <div align="center">
 <a href="https://github.com/xigney" target="_blank">
