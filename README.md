@@ -1,27 +1,23 @@
-# Hi there 👋, my name is xigney  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-![visitors](https://komarev.com/ghpvc/?username=creeper-exe&&style=flat-square)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+# Hi there 👋, my name is xigney  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Biraz detaylara inelim...
 
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 
-class Pentester:
+class Student:
 
     def __init__(self):
         self.name = "Noureldin"
-        self.role = "Pentester"
-        self.language_spoken = ["ar", "en_US", "de_DE", "tr_TR", "es_MX"]
+        self.role = "Student"
+        self.language_spoken = ["en_US", "tr_TR"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Have a nice day!")
 
 
-me = Pentester()
+me = Student()
 me.say_hi()
 ```
 
