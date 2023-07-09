@@ -1,4 +1,4 @@
-# Hi there 👋, my name is xigney  
+# Merhabalar 👋, benim adım xigney  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Biraz detaylara inelim...
 
 ```python
@@ -6,25 +6,25 @@
 # -*- coding: utf-8 -*-
 
 
-class Student:
+class Öğrenci:
 
     def __init__(self):
-        self.name = "Noureldin"
-        self.role = "Student"
-        self.language_spoken = ["en_US", "tr_TR"]
+        self.ad = "Xigney"
+        self.rol = "Öğrenci"
+        self.konusulabilecegini_iddia_ettigi_diller = ["en_US", "tr_TR"]
 
-    def say_hi(self):
-        print("Have a nice day!")
+    def aaa_ama_cok_ayip_gel_halana_bir_hos_geldi_de(self):
+        print(Hayır, demeyeceğim ya!!!")
 
 
-me = Student()
-me.say_hi()
+me = Öğrenci()
+me.aaa_ama_cok_ayip_gel_halana_bir_hos_geldi_de()
 ```
 
 
 <br/>  
 
-## My Skill Set  
+## Yeteneklerim
 <table><tr><td valign="top" width="33%">
 
 
