@@ -12,12 +12,12 @@ class Öğrenci:
         self.rol = "Öğrenci"
         self.konusulabilecegini_iddia_ettigi_diller = ["en_US", "tr_TR"]
 
-    def aaa_ama_cok_ayip_gel_halana_bir_hos_geldi_de(self):
+    def aaa_ama_cok_ayip_gel_halana_bir_hos_geldin_de(self):
         print("Hayır, demeyeceğim ya!!!")
 
 
 me = Öğrenci()
-me.aaa_ama_cok_ayip_gel_halana_bir_hos_geldi_de()
+me.aaa_ama_cok_ayip_gel_halana_bir_hos_geldin_de()
 ```
 
 
