@@ -5,18 +5,18 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class Öğrenci:
+class Student:
 
     def __init__(self):
-        self.ad = "Xigney"
-        self.rol = "Öğrenci"
+        self.name = "Xigney"
+        self.role = "Öğrenci"
         self.konusulabilecegini_iddia_ettigi_diller = ["en_US", "tr_TR"]
 
     def aaa_ama_cok_ayip_gel_halana_bir_hos_geldin_de(self):
         print("Hayır, demeyeceğim ya!!!")
 
 
-me = Öğrenci()
+me = Student()
 me.aaa_ama_cok_ayip_gel_halana_bir_hos_geldin_de()
 ```
 
