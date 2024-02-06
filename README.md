@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xigney&label=Profile%20views&color=0e75b6&style=flat" alt="xigney" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.onurbilici.com](www.onurbilici.com)
+- 👨‍💻 All of my projects are available at www.onurbilici.com
 
 - 📫 How to reach me **cnurbilici@gmail.com**
 
