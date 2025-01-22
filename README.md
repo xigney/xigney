@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at www.onurbilici.com
 
-- 📫 How to reach me **cnurbilici@gmail.com**
+- 📫 How to reach me **onurbilic1@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
